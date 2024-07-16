@@ -48,4 +48,4 @@ for character in name:
 
 Above code prints all the characters in the string name one by one!
 
-## [Next Lesson>>](https://replit.com/@codewithharry/12-Day12-Strings-Slicing#main.py)
+## [Next Lesson>>](https://github.com/Harshita1303/Python/blob/main/12-Day12-Strings-Slicing/.tutorial/Tutorial.md)
