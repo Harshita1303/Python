@@ -52,4 +52,4 @@ print(type(c))
 <class 'float'>
 ```
 
-## [Next Lesson>>](https://replit.com/@codewithharry/10-Day10-Taking-User-Input#main.py`)
+## [Next Lesson>>](https://github.com/Harshita1303/Python/blob/main/10-Day10-Taking-User-Input/.tutorial/Tutorial.md)
