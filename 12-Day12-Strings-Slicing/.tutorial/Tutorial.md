@@ -59,4 +59,4 @@ D
 E
 ```
 
-## [Next Lesson>>](https://replit.com/@codewithharry/13-Day13-String-Methods)
+## [Next Lesson>>](https://github.com/Harshita1303/Python/blob/main/13-Day13-String-Methods/.tutorial/Tutorial.md)
