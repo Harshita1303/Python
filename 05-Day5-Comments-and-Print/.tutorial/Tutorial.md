@@ -119,4 +119,4 @@ print(object(s), sep=separator, end=end, file=file, flush=flush)
 
 Parameters 2 to 4 are optional
 
-## [Next Lesson>>](https://replit.com/@codewithharry/06-Day6-Variables-and-Data-Types)
+## [Next Lesson>>](https://github.com/Harshita1303/Python/blob/main/06-Day6-Variables-and-Data-Types/.tutorial/Tutorial.md)
