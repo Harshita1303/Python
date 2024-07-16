@@ -335,4 +335,4 @@ print(str1.title())
 He'S Name Is Dan. Dan Is An Honest Man.
 ```
 
-## [Next Lesson>>](https://replit.com/@codewithharry/14-Day14-If-Else-Conditionals#04%20nested.py)
+## [Next Lesson>>](https://github.com/Harshita1303/Python/blob/main/14-Day14-If-Else-Conditionals/.tutorial/01-if_else_statements.md)
