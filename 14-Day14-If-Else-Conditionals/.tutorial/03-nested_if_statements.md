@@ -19,4 +19,4 @@ Output:
 ```
 Number is between 11-20
 ```
-## [Next Lesson>>](https://replit.com/@codewithharry/15-Day15-Exercise-2-Good-Morning-Sir#.tutorial/Tutorial.md)
+## [Next Lesson>>](https://github.com/Harshita1303/Python/blob/main/15-Day15-Exercise-2-Good-Morning-Sir/.tutorial/Tutorial.md)
