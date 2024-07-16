@@ -12,4 +12,4 @@ timestamp = time.strftime('%S')
 print(timestamp)
 # https://docs.python.org/3/library/time.html#time.strftime
 ```
-## [Next Lesson>>](https://replit.com/@codewithharry/16-Day-16-Match-Case)
+## [Solution>>](https://github.com/Harshita1303/Python/blob/main/26-Day-26-Exercise-2-Solution/main.py)
