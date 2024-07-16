@@ -1,4 +1,4 @@
-# String Slicing & Operations on String
+# Day- 12 String Slicing & Operations on String
 # Length of a String
 We can find the length of a string using len() function.
 
