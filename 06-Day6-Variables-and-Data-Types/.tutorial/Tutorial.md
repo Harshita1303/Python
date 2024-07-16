@@ -96,4 +96,4 @@ Output:
 {'name': 'Sakshi', 'age': 20, 'canVote': True}
 ```
 
-## [Next Lesson>>](https://replit.com/@codewithharry/07-Day7-Exercise-1-Create-a-Calculator)
+## [Next Lesson>>](https://github.com/Harshita1303/Python/blob/main/07-Day7-Exercise-1-Create-a-Calculator/.tutorial/01_Operators.md)
