@@ -32,3 +32,5 @@ print("Floor Division of",n,"and",m,"is", ans6)
 ```
 # Explaination
 Here 'n' and 'm' are two variables in which the integer value is being stored. Variables 'ans1' , 'ans2' ,'ans3', 'ans4','ans5' and 'ans6' contains the outputs corresponding to addition, subtraction,multiplication, division, modulus and floor division respectively.
+
+## [Excercise>>](https://github.com/Harshita1303/Python/blob/main/07-Day7-Exercise-1-Create-a-Calculator/.tutorial/02_Exercise.md)
