@@ -15,7 +15,7 @@ print(timestamp)
 
 # Solution
 
-```pyhton
+```python
 import time
 
 hour = int(time.strftime('%H'))
@@ -31,4 +31,4 @@ else:
   print("Good Evening Sir")
 ```
 
-## [Solution>>](https://github.com/Harshita1303/Python/blob/main/26-Day-26-Exercise-2-Solution/.tutorial/Tutorial.md)
+## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/16-Day-16-Match-Case/.tutorial/Tutorial.md)
