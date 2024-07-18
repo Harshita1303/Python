@@ -158,4 +158,4 @@ print(animals[1:8:3])
 ('dog', 'pig', 'goat')
 ```
 Here, jump index is 3. Hence it prints every 3rd element within given index.
-## [Next Lesson>>](https://replit.com/@codewithharry/25-Day25-Operations-on-Tuples)
+## [Next Lesson>>](https://github.com/Harshita1303/Python/blob/main/25-Day25-Operations-on-Tuples/.tutorial/01-manipulating_tuples.md)
