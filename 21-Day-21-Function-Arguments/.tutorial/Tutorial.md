@@ -115,5 +115,5 @@ Output:
 ```
 Hello, James Buchanan Barnes
 ```
-## [Next Lesson>>](https://replit.com/@codewithharry/22-Day-22-Introduction-to-Lists)
+## [Next Lesson>>](https://github.com/Harshita1303/Python/blob/main/22-Day-22-Introduction-to-Lists/.tutorial/01-lists.md)
 
