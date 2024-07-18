@@ -166,4 +166,4 @@ print(colors + colors2)
 ```
 ['voilet', 'indigo', 'blue', 'green', 'yellow', 'orange', 'red']
 ```
-## [Next Lesson>>](https://replit.com/@codewithharry/24-Day24-Introduction-to-Tuples)
+## [Next Lesson>>](https://github.com/Harshita1303/Python/blob/main/24-Day24-Introduction-to-Tuples/.tutorial/01-python_tuples.md)
