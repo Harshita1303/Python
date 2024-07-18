@@ -41,4 +41,4 @@ match x:
 ```
 x % 2 == 0 and case is 4
 ```
-## [Next Lesson>>](https://replit.com/@codewithharry/17-Day17-For-Loops)
+## [Next Lesson>>](https://github.com/Harshita1303/Python/blob/main/17-Day17-For-Loops/.tutorial/Tutorial.md)
