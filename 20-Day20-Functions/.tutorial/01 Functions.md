@@ -44,4 +44,4 @@ Output:
 ```
 Hello, Sam Wilson
 ```
-## [Next Lesson>>](https://replit.com/@codewithharry/21-Day-21-Function-Arguments)
+## [Next Lesson>>](https://github.com/Harshita1303/Python/blob/main/21-Day-21-Function-Arguments/.tutorial/Tutorial.md)
