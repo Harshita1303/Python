@@ -23,4 +23,4 @@ print("Thank you")
 .
 50 Mississippi
 ```
-## [Next](https://github.com/Harshita1303/Python/blob/main/19-Day-19-break-and-continue/.tutorial/01%20continue.md)
+## [Next](https://github.com/Harshita1303/Python/blob/main/19-Day-19-break-and-continue/.tutorial/02%20continue.md)
