@@ -25,3 +25,5 @@ print(details)
 ```
 ('Abhijeet', 18, 'FYBScIT', 9.8)
 ```
+
+## [Next>>](https://github.com/Harshita1303/Python/blob/main/24-Day24-Introduction-to-Tuples/.tutorial/02-tuple_indexes.md)
