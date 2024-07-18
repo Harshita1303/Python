@@ -27,3 +27,5 @@ Output:
 ['Abhijeet', 18, 'FYBScIT', 9.8]
 ```
 As we can see, a single list can contain items of different data types.
+
+## [Next>>](https://github.com/Harshita1303/Python/blob/main/22-Day-22-Introduction-to-Lists/.tutorial/02-lists_indexes.md) 
