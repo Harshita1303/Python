@@ -36,4 +36,4 @@ print(namesWith_O)
 ```
 ['Sarah', 'Bruno', 'Anastasia']
 ```
-## [Next Lesson>>](https://replit.com/@codewithharry/23-Day-23-List-Methods)
+## [Next Lesson>>](https://github.com/Harshita1303/Python/blob/main/23-Day-23-List-Methods/.tutorial/01-lists_methods.md)
