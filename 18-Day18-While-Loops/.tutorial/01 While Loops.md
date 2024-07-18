@@ -41,3 +41,4 @@ else:
 1
 counter is 0
 ```
+## [Next>>](https://github.com/Harshita1303/Python/blob/main/18-Day18-While-Loops/.tutorial/02%20Emulate%20Do%20While%20Loops.md)
