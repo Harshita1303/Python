@@ -70,4 +70,4 @@ for k in range(4,9):
 
 ## Quick Quiz
 Explore about third parameter of range (ie range(x, y, z))
-## [Next Lesson>>](https://replit.com/@codewithharry/18-Day18-While-Loops)
+## [Next Lesson>>](https://github.com/Harshita1303/Python/blob/main/18-Day18-While-Loops/.tutorial/01%20While%20Loops.md)
