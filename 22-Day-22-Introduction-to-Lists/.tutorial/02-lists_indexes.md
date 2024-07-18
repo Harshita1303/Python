@@ -156,3 +156,5 @@ print(animals[1:8:3])
 ['dog', 'pig', 'goat
 ```
 Here, jump index is 3. Hence it prints every 3rd element within given index.
+
+## [Next>>](https://github.com/Harshita1303/Python/blob/main/22-Day-22-Introduction-to-Lists/.tutorial/03-lists_comprehension.md)
