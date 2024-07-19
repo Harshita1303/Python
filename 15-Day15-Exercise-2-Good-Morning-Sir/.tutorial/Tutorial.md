@@ -14,14 +14,18 @@ print(timestamp)
 ```
 
 # Solution
+We are going to use "time module" to create a program which greets you
 
 ```python
 import time
 
-hour = int(time.strftime('%H'))
-
+#Current time 
 timestamp = time.strftime('%H:%M:%S')
 print(timestamp)
+
+#take hour using time module
+hour = int(time.strftime('%H'))
+print(hour)
 
 if (hour >= 0 and hour < 12):
   print("Good Morning Sir")
