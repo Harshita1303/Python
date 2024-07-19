@@ -42,4 +42,4 @@ else:
   print(" ".join(nwords))
 ```
   
-## [Next Lesson>>](https://replit.com/@codewithharry/48-Day48-local-vs-global-variables)
+## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/48-Day48-local-vs-global-variables/.tutorial/Tutorial.md)
