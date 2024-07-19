@@ -12,6 +12,7 @@
 - Nested list
 - list()
 - empty list: l=[]
+
 Example 1:
 ```python
 lst1 = [1,2,2,3,5,4,6]
