@@ -40,7 +40,9 @@ The reverse parameter is set to False by default.
 
 *Note: Do not mistake the reverse parameter with the reverse method.
 
- 
+Reverse=True: It is reversed alphabetically.
+Reverse(): It reverses the order of the list.
+
 
 ## reverse()
 This method reverses the order of the list. 
