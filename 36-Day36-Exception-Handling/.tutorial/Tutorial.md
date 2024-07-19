@@ -30,4 +30,4 @@ Enter an integer: 6.022
 Number entered is not an integer.
 ```
 
-## [Next Lesson>>](https://replit.com/@codewithharry/37-Day37-Finally-keyword)
+## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/37-Day37-Finally-keyword/.tutorial/Tutorial.md)
