@@ -89,4 +89,4 @@ print(info)
 ```
 NameError: name 'info' is not defined
 ```
-## [Next Lesson>>](https://replit.com/@codewithharry/35-Day-35-For-loop-with-else)
+## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/35-Day-35-For-loop-with-else/.tutorial/Tutorial.md)
