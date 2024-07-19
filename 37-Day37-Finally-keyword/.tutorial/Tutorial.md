@@ -39,4 +39,4 @@ Enter an integer: 3.142
 Number entered is not an integer.
 This block is always executed.
 ```
-## [Next Lesson>>](https://replit.com/@codewithharry/38-Day38-Custom-Errors)
+## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/38-Day38-Custom-Errors/.tutorial/Tutorial.md)
