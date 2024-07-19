@@ -6,7 +6,7 @@ Sets in python more or less work in the same way as sets in mathematics. We can 
 ## I. union() and update():
 The union() and update() methods __prints all__ items that are present in the two sets.
 
-__union()__ method returns a new set.
+The __union()__ method returns a new set.
 __update()__ method adds item into the existing set from another set.
 
 #### Example:
