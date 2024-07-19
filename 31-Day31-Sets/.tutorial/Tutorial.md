@@ -36,4 +36,4 @@ Carla
 19
 5.9
 ```
-## [Next Lesson>>](https://replit.com/@codewithharry/32-Day32-Set-Methods)
+## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/32-Day32-Set-Methods/.tutorial/01%20joining%20sets.md)
