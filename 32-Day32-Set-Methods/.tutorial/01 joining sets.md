@@ -4,7 +4,10 @@ Sets in python more or less work in the same way as sets in mathematics. We can 
  
 
 ## I. union() and update():
-The union() and update() methods prints all items that are present in the two sets. The union() method returns a new set whereas update() method adds item into the existing set from another set.
+The union() and update() methods __prints all__ items that are present in the two sets.
+
+__union()__ method returns a new set.
+__update()__ method adds item into the existing set from another set.
 
 #### Example:
 ```python
@@ -31,7 +34,9 @@ print(cities)
  
 ```
 ## II. intersection and intersection_update():
-The intersection() and intersection_update() methods prints only items that are similar to both the sets. The intersection() method returns a new set whereas intersection_update() method updates into the existing set from another set.
+The intersection() and intersection_update() methods prints only __similar items__ to both the sets. 
+
+The intersection() method returns a new set whereas intersection_update() method updates into the existing set from another set.
 
 #### Example:
 ```python
@@ -58,7 +63,9 @@ print(cities)
 ```
 
 ## III. symmetric_difference and symmetric_difference_update():
-The symmetric_difference() and symmetric_difference_update() methods prints only items that are not similar to both the sets. The symmetric_difference() method returns a new set whereas symmetric_difference_update() method updates into the existing set from another set.
+The symmetric_difference() and symmetric_difference_update() methods prints only items that are __not similar to both the sets__. 
+
+The symmetric_difference() method returns a new set whereas symmetric_difference_update() method updates into the existing set from another set.
 
 #### Example:
 ```python
@@ -85,7 +92,9 @@ print(cities)
  ```
 
 ## IV. difference() and difference_update():
-The difference() and difference_update() methods prints only items that are only present in the original set and not in both the sets. The difference() method returns a new set whereas difference_update() method updates into the existing set from another set.
+The difference() and difference_update() methods __prints only items that are only present in the original set and not in both the sets__. 
+
+The difference() method returns a new set whereas difference_update() method updates into the existing set from another set.
 
 #### Example:
 ```python
