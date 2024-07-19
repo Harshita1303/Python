@@ -38,7 +38,7 @@ print(num)
 
 The reverse parameter is set to False by default.
 
-Note: Do not mistake the reverse parameter with the reverse method.
+*Note: Do not mistake the reverse parameter with the reverse method.
 
  
 
