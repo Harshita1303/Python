@@ -41,4 +41,43 @@ match x:
 ```
 x % 2 == 0 and case is 4
 ```
+
+In the example you provided, you are using Python's `match` statement, introduced in Python 3.10, which allows for pattern matching. Here's an explanation of the different cases you have:
+
+1. **Case with a specific value (0)**:
+    ```python
+    case 0:
+        print("x is zero")
+    ```
+    This case checks if `x` is exactly 0. If `x` is 0, it will print "x is zero".
+
+2. **Case with a specific value and an additional condition**:
+    ```python
+    case 4 if x % 2 == 0:
+        print("x % 2 == 0 and case is 4")
+    ```
+    This case checks if `x` is 4 and if `x % 2 == 0`. Since `x` is 4 and 4 is even, it will print "x % 2 == 0 and case is 4".
+
+3. **Empty case with an if-condition**:
+    ```python
+    case _ if x < 10:
+        print("x is < 10")
+    ```
+    The `_` symbol is a wildcard that matches any value. The condition `if x < 10` adds an extra check. Since `x` is 4 and 4 is less than 10, it will print "x is < 10".
+
+4. **Default case**:
+    ```python
+    case _:
+        print(x)
+    ```
+    This is a default case that will match any value not matched by the previous cases. Since `x` is already matched by the third case, this default case will not execute in this example.
+
+Putting it all together, for `x = 4`, the output of the script would be:
+
+```
+x % 2 == 0 and case is 4
+x is < 10
+```
+
+Note that both the second and third cases are matched because they are not mutually exclusive. If you want only one case to execute, you would need to order the conditions more carefully or use a different control structure.
 ## [Next Lesson>>](https://github.com/Harshita1303/Python/blob/main/17-Day17-For-Loops/.tutorial/Tutorial.md)
