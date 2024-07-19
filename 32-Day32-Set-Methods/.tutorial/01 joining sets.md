@@ -109,3 +109,5 @@ print(cities.difference(cities2))
 ```
 {'Tokyo', 'Berlin', 'Madrid'}
 ```
+
+## [Next>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/32-Day32-Set-Methods/.tutorial/02%20set%20methods.md)
