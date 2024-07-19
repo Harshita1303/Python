@@ -5,6 +5,10 @@ Tuples are ordered collection of data items. They store multiple items in a sing
 - Ordered
 - Heterogenous
 - Immutable
+- duplicates
+- tuple()
+- Nested tuples
+- t = ()
 
 
 ### Example 1:
