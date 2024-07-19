@@ -72,4 +72,4 @@ In the above example, the reduce function applies the lambda function lambda x, 
 
 It is important to note that the reduce function requires the functools module to be imported in order to use it.
 
-## [Next Lesson>>](https://replit.com/@codewithharry/54-Day54-is-vs-in-Python)
+## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/54-Day54-is-vs-in-Python/.tutorial/Tutorial.md)
