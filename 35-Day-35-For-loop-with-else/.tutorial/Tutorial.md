@@ -27,4 +27,4 @@ iteration no 5 in for loop
 else block in loop
 Out of loop
 ```
-## [Next Lesson>>](https://replit.com/@codewithharry/36-Day36-Exception-Handling)
+## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/35-Day-35-For-loop-with-else/.tutorial/Tutorial.md)
