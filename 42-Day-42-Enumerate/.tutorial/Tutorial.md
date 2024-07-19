@@ -70,4 +70,4 @@ for index, c in enumerate(s):
     print(index, c)
 
 ```
-## [Next Lesson>>](https://replit.com/@codewithharry/43-Day43-Virtual-Environment)
+## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/44-Day44-How-import-works/.tutorial/Tutorial.md)
