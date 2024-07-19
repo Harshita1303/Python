@@ -165,4 +165,4 @@ else:
 
 Carla is present.
 
-## [Next Lesson>>](https://replit.com/@codewithharry/33-Day-33-Dictionary)
+## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/33-Day-33-Dictionary/.tutorial/01-Dictionaries.md)
