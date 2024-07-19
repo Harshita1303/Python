@@ -1,9 +1,8 @@
 ## Exercise 1 - Create a Calculator
 Create a calculator capable of performing addition, subtraction, multiplication, division modulus, exponent and floor division operations on two numbers. Your program should format the output in a readable manner!
-## Soltuion - A calculator
-'''python
-#Create a calculator using match case 
-
+## Soltuion 
+```python
+#A calculator using match case statements
 #Taking input from user
 a = int(input("Enter the number: "))
 b = int(input("Enter the number: "))
@@ -53,6 +52,6 @@ while(True):
       
     case _:
       print("Invalid choice")
-'''
+```
 
 ## [Next Lesson>>](https://github.com/Harshita1303/Python/blob/main/09-Day9-Typecasting-in-Python/.tutorial/Tutorial.md)
