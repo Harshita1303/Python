@@ -70,4 +70,12 @@ for k in range(4,9):
 
 ## Quick Quiz
 Explore about third parameter of range (ie range(x, y, z))
+
+## Solution
+```python
+l = [1,2,3,4,5,6,7,8,9,10]
+
+for i in range(0, len(l)+1, 2):
+  print(i)
+```
 ## [Next Lesson>>](https://github.com/Harshita1303/Python/blob/main/18-Day18-While-Loops/.tutorial/01%20While%20Loops.md)
