@@ -38,4 +38,4 @@ with open('sample.txt', 'r') as f:
   print(f.read())
 
 ```
-## [Next Lesson>>](https://replit.com/@codewithharry/52-Day52-Lambda-Functions)
+## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/52-Day52-Lambda-Functions/.tutorial/Tutorial.md)
