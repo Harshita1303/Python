@@ -14,6 +14,7 @@ remove 3 random characters from start and end. Now remove the last letter and ap
 
 ### Your program should ask whether you want to code or decode
 
+# Solution
 ```python
 #Secret Code Language - code/decode
 
