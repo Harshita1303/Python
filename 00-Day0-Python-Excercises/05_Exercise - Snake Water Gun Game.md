@@ -8,7 +8,7 @@ Rules: the gun beats the snake ,
 the water beats the gun, 
 and the snake beats the water.'''
 
-#Greeting to the players
+#Greetings to the players
 print("welcome to the \"snake-water-gun\" game")
 print('Who score the most points wins the game')
 
@@ -75,4 +75,4 @@ else:
 
 ```
 
-## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/56-Day56-Intro-to-oops/.tutorial/Tutorial.md)
+## [Next Exercise >>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/56-Day56-Intro-to-oops/.tutorial/Tutorial.md)
