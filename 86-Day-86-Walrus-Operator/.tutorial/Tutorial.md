@@ -51,4 +51,4 @@ It is important to note that the Walrus Operator should be used sparingly as it 
 
 In conclusion, the Walrus Operator is a useful tool for Python developers to have in their toolkit. It can help streamline code and reduce duplication, but it should be used with care to ensure code readability and maintainability.
 
-## [Next Lesson>>](https://replit.com/@codewithharry/87-Day-87-Shutil-Module)
+## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/87-Day-87-Shutil-Module/.tutorial/Tutorial.md)
