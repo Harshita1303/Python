@@ -16,3 +16,5 @@ Derived class inherits features from the base class where new features can be ad
 5. Hybrid Inheritance
 
 We will see the explaination and example of each type of inheritance in the later tutorials
+
+## [Next](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/61-Day-61-Inheritance-in-Python/.tutorial/02-examples.md)
