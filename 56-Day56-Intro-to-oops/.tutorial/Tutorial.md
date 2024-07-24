@@ -17,4 +17,4 @@ Another key feature of OOP in Python is inheritance, which allows new classes to
 Polymorphism is also supported in Python, which means that objects of different classes can be treated as if they were objects of a common class. This allows for greater flexibility in code and makes it easier to write code that can work with multiple types of objects.
 
 In summary, OOP in Python allows developers to model real-world concepts and entities using classes and objects, encapsulate data, reuse code through inheritance, and write more flexible code through polymorphism.
- ## [Next Lesson>>](https://replit.com/@codewithharry/57-Day57-Classes-and-Objects)
+ ## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/57-Day57-Classes-and-Objects/.tutorial/01-Class_objects.md)
