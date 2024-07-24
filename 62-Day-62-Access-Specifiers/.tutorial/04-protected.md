@@ -33,4 +33,4 @@ CodeWithHarry
 Harry
 CodeWithHarry
 ```
-## [Next Lesson>>](https://replit.com/@codewithharry/63-Day-63-Exercise-5-Solution)
+## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/63-Day-63-Exercise-5-Solution/.tutorial/Tutorial.md)
