@@ -28,4 +28,4 @@ L = await asyncio.gather(
 print(L)
 ```
 Async IO is a powerful programming pattern that allows for high-performance and concurrent I/O operations in Python. With the `asyncio` module and asynchronous functions, you can write efficient and scalable code that can handle large amounts of data and I/O operations without blocking the main thread. Whether you're working on web applications, network services, or data processing pipelines, async IO is an essential tool for any Python developer.
-## [Next Lesson>>](https://replit.com/@codewithharry/97-Day-97-MultiThreading-in-Python)
+## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/97-Day-97-MultiThreading-in-Python/.tutorial/01-multithreading.md)
