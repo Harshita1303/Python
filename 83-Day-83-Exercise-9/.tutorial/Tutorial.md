@@ -10,4 +10,4 @@ Shoutout to Nishant
 Shoutout to Harry
 ```
 Note: If you are not using windows, try to figure out how to do the same thing using some other package
-## [Next Lesson>>](https://replit.com/@codewithharry/84-Day-84-Time-Module)
+## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/84-Day-84-Time-Module/.tutorial/Time%20Tutorial.md)
