@@ -52,3 +52,5 @@ print(my_object.__mangled_attribute) # Throws an AttributeError
 print(my_object._MyClass__mangled_attribute) # Output: I am a mangled attribute
 ```
 In the example above, the attribute _nonmangled_attribute is marked as nonmangled by convention, but can still be accessed from outside the class. The attribute __mangled_attribute is private and its name is "mangled" to _MyClass__mangled_attribute, so it can't be accessed directly from outside the class, but you can access it by calling _MyClass__mangled_attribute
+
+## [Next Lesson](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/62-Day-62-Access-Specifiers/.tutorial/04-protected.md)
