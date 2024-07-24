@@ -17,3 +17,5 @@ print(obj.name)
 21
 Harry
 ```
+
+## [Next](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/62-Day-62-Access-Specifiers/.tutorial/03-private.md)
