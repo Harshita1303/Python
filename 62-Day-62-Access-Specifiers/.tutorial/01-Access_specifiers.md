@@ -6,4 +6,5 @@ Let us see the each one of access specifiers in detail:
 1.  Public access modifier
 2. Private access modifier
 3. Protected access modifier
-   
+
+## [Next](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/62-Day-62-Access-Specifiers/.tutorial/02-public.md)
