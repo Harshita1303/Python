@@ -37,3 +37,5 @@ print(obj1.age)
 Rohan
 20
 ```
+
+## [Next](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/57-Day57-Classes-and-Objects/.tutorial/02-self_parameter.md)
