@@ -16,4 +16,3 @@ for pdf in files:
 merger.write("merged-pdf.pdf")
 merger.close()
 ```
-## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/77-Day-77-Operator-Overloading/.tutorial/Tutorial.md)
