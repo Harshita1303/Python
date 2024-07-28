@@ -19,5 +19,3 @@ for file in files:
     i = i + 1
 ```
 
-
-## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/69-Day-69-Class-Methods/.tutorial/Tutorial.md)
