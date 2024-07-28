@@ -13,4 +13,3 @@ while True:
   os.system(command)
   time.sleep(REPEAT_INTERVAL)
 ```
-## [Next Lesson>>](https://replit.com/@codewithharry/100-Day-100-Conclusion-Where-to-go-from-here)
