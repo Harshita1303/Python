@@ -77,4 +77,3 @@ while(True):
   else:
     print("Invalid choice!, try again")
 ```
-## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/41-Day41-Short-Hand-if-else/.tutorial/Tutorial.md)
