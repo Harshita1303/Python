@@ -131,4 +131,4 @@ for i in range(0, len(questions)):
 print(f"Your take home money is {money}")
 ```
 
-## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/40-Day40-Exercise-4/.tutorial/tutorial.md)
+
