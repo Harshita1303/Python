@@ -10,4 +10,3 @@ for name in names:
   system(f'say Shoutout to {name}')
 
 ```
-## [Next Lesson>>](https://github.com/Harshita1303/Python-CodewithHarry/blob/main/94-Day-94-Exercise-11/.tutorial/Tutorial.md)
